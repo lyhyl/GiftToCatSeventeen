@@ -1,0 +1,3 @@
+Data\Cat\cat.xnb
+Data\Image\NextPlugin.png
+Data\Image\PrevPlugin.png
